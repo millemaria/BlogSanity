@@ -1,6 +1,6 @@
 import Bar from "../Components/Bar/Bar";
-import Footer from 'src/Components/Footer/Footer';
-import Heading from 'src/Components/Heading/Heading';
+import Footer from "src/Components/Bar/Footer/Footer";
+import Heading from "src/Components/Bar/Heading/Heading";
 
 
 const MainLayout = ({ children }) => {
